@@ -5,6 +5,8 @@ node_modules/.cache
 
 #Build
 build/
+client/build/
+client/node_modules
 
 # Logs
 logs
